@@ -4,6 +4,7 @@
 - 🔭 Trabalho com linguagem de programação na **educação básica**. 
 - 🌱 Estou aprendendo a programar nas linguagens _Scratch_ e _JavaScript_. 
 - 📫 Meu email de contato: ana_kopper@escola.pr.gov.br
+- :brain: Gosto de aprender e acredito que aqui encontrarei muito conhecimento prático da área.:video_game:
 
 <div align="center">
   <a href="https://github.com/AnaKopper">
